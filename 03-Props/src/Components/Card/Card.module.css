@@ -1,0 +1,31 @@
+.card{
+    width: 300px;
+    border: 1px solid white;
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: #e62566;
+  
+}
+.card button{
+    margin-top: 10px;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    background-color: #f7bcd0;
+    color: black;
+    cursor: pointer;
+}
+.card p{
+    margin-top: 10px;
+
+}
+.card img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+}
+.card h1{
+   margin-top: 10px;
+}
