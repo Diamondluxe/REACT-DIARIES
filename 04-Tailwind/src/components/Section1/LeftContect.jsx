@@ -1,5 +1,5 @@
 import React from 'react'
-import {MoveUpRight} from 'lucide-react'
+import { MoveUpRight} from 'lucide-react'
 
 const LeftContect = () => {
   return (
