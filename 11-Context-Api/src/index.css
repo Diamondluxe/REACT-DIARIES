@@ -1,0 +1,29 @@
+html,
+body {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: #333;
+}
+
+.light {
+  display: flex;
+  background-color: #e62566;
+  justify-content: space-between;
+  padding: 8px 10px;
+  align-items: center;
+}
+
+.dark {
+  display: flex;
+  background-color: #4d051d;
+  justify-content: space-between;
+  padding: 8px 10px;
+  align-items: center;
+  color: white;
+}
+
+.nav2{
+  display: flex;
+  gap: 30px;
+}
